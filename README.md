@@ -1,2 +1,2 @@
 # MiniSql
-MiniSql with select with indnex
+MiniSql with select with index
